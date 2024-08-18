@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SAT\\source\\repos\\StoredProc.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2579F0EC-7F01-495D-A7A2-81BE69C1ADA8}|MyWeb\\MyWeb.csproj|d:\\machine test\\webapistotedpart2\\myweb\\myweb\\repo\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2579F0EC-7F01-495D-A7A2-81BE69C1ADA8}|MyWeb\\MyWeb.csproj|solutionrelative:myweb\\repo\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2579F0EC-7F01-495D-A7A2-81BE69C1ADA8}|MyWeb\\MyWeb.csproj|d:\\machine test\\webapistotedpart2\\myweb\\myweb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2579F0EC-7F01-495D-A7A2-81BE69C1ADA8}|MyWeb\\MyWeb.csproj|solutionrelative:myweb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2579F0EC-7F01-495D-A7A2-81BE69C1ADA8}|MyWeb\\MyWeb.csproj|d:\\machine test\\webapistotedpart2\\myweb\\myweb\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2579F0EC-7F01-495D-A7A2-81BE69C1ADA8}|MyWeb\\MyWeb.csproj|solutionrelative:myweb\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\Migrations\\20240817055937_mnq23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyWeb\\Migrations\\20240817055937_mnq23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2579F0EC-7F01-495D-A7A2-81BE69C1ADA8}|MyWeb\\MyWeb.csproj|d:\\machine test\\webapistotedpart2\\myweb\\myweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2579F0EC-7F01-495D-A7A2-81BE69C1ADA8}|MyWeb\\MyWeb.csproj|solutionrelative:myweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2579F0EC-7F01-495D-A7A2-81BE69C1ADA8}|MyWeb\\MyWeb.csproj|d:\\machine test\\webapistotedpart2\\myweb\\myweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2579F0EC-7F01-495D-A7A2-81BE69C1ADA8}|MyWeb\\MyWeb.csproj|solutionrelative:myweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\Migrations\\20240817055219_mnq8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyWeb\\Migrations\\20240817055219_mnq8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2579F0EC-7F01-495D-A7A2-81BE69C1ADA8}|MyWeb\\MyWeb.csproj|d:\\machine test\\webapistotedpart2\\myweb\\myweb\\data\\sqlstoredcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2579F0EC-7F01-495D-A7A2-81BE69C1ADA8}|MyWeb\\MyWeb.csproj|solutionrelative:myweb\\data\\sqlstoredcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2579F0EC-7F01-495D-A7A2-81BE69C1ADA8}|MyWeb\\MyWeb.csproj|d:\\machine test\\webapistotedpart2\\myweb\\myweb\\dto\\productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2579F0EC-7F01-495D-A7A2-81BE69C1ADA8}|MyWeb\\MyWeb.csproj|solutionrelative:myweb\\dto\\productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2579F0EC-7F01-495D-A7A2-81BE69C1ADA8}|MyWeb\\MyWeb.csproj|d:\\machine test\\webapistotedpart2\\myweb\\myweb\\dto\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2579F0EC-7F01-495D-A7A2-81BE69C1ADA8}|MyWeb\\MyWeb.csproj|solutionrelative:myweb\\dto\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2579F0EC-7F01-495D-A7A2-81BE69C1ADA8}|MyWeb\\MyWeb.csproj|d:\\machine test\\webapistotedpart2\\myweb\\myweb\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2579F0EC-7F01-495D-A7A2-81BE69C1ADA8}|MyWeb\\MyWeb.csproj|solutionrelative:myweb\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\Models\\SqlStoredContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyWeb\\Models\\SqlStoredContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2579F0EC-7F01-495D-A7A2-81BE69C1ADA8}|MyWeb\\MyWeb.csproj|d:\\machine test\\webapistotedpart2\\myweb\\myweb\\myweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2579F0EC-7F01-495D-A7A2-81BE69C1ADA8}|MyWeb\\MyWeb.csproj|solutionrelative:myweb\\myweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SAT\\source\\repos\\StoredProc.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoredProc.sql ",
+              "DocumentMoniker": "C:\\Users\\SAT\\source\\repos\\StoredProc.sql",
+              "ToolTip": "StoredProc.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-16T14:25:36.955Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Services.cs",
+              "DocumentMoniker": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\Services\\Services.cs",
+              "RelativeDocumentMoniker": "MyWeb\\Services\\Services.cs",
+              "ToolTip": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\Services\\Services.cs",
+              "RelativeToolTip": "MyWeb\\Services\\Services.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAmwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:27:32.474Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MyWeb\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MyWeb\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAqwFEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:49:30.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240817055937_mnq23.cs",
+              "DocumentMoniker": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\Migrations\\20240817055937_mnq23.cs",
+              "RelativeDocumentMoniker": "MyWeb\\Migrations\\20240817055937_mnq23.cs",
+              "ToolTip": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\Migrations\\20240817055937_mnq23.cs",
+              "RelativeToolTip": "MyWeb\\Migrations\\20240817055937_mnq23.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T05:59:37.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240817055219_mnq8.cs",
+              "DocumentMoniker": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\Migrations\\20240817055219_mnq8.cs",
+              "RelativeDocumentMoniker": "MyWeb\\Migrations\\20240817055219_mnq8.cs",
+              "ToolTip": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\Migrations\\20240817055219_mnq8.cs",
+              "RelativeToolTip": "MyWeb\\Migrations\\20240817055219_mnq8.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T05:52:19.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductDetail.cs",
+              "DocumentMoniker": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\DTO\\ProductDetail.cs",
+              "RelativeDocumentMoniker": "MyWeb\\DTO\\ProductDetail.cs",
+              "ToolTip": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\DTO\\ProductDetail.cs",
+              "RelativeToolTip": "MyWeb\\DTO\\ProductDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T05:26:49.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\DTO\\Sale.cs",
+              "RelativeDocumentMoniker": "MyWeb\\DTO\\Sale.cs",
+              "ToolTip": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\DTO\\Sale.cs",
+              "RelativeToolTip": "MyWeb\\DTO\\Sale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:19:03.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MyWeb\\Models\\Product.cs",
+              "ToolTip": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\Models\\Product.cs",
+              "RelativeToolTip": "MyWeb\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:30:24.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\Repo\\IRepository.cs",
+              "RelativeDocumentMoniker": "MyWeb\\Repo\\IRepository.cs",
+              "ToolTip": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\Repo\\IRepository.cs",
+              "RelativeToolTip": "MyWeb\\Repo\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:27:17.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\Program.cs",
+              "RelativeDocumentMoniker": "MyWeb\\Program.cs",
+              "ToolTip": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\Program.cs",
+              "RelativeToolTip": "MyWeb\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:23:14.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "MyWeb\\appsettings.json",
+              "ToolTip": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\appsettings.json",
+              "RelativeToolTip": "MyWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T14:21:28.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SqlStoredContext.cs",
+              "DocumentMoniker": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\Data\\SqlStoredContext.cs",
+              "RelativeDocumentMoniker": "MyWeb\\Data\\SqlStoredContext.cs",
+              "ToolTip": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\Data\\SqlStoredContext.cs",
+              "RelativeToolTip": "MyWeb\\Data\\SqlStoredContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:20:56.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyWeb.csproj",
+              "DocumentMoniker": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\MyWeb.csproj",
+              "RelativeDocumentMoniker": "MyWeb\\MyWeb.csproj",
+              "ToolTip": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\MyWeb.csproj",
+              "RelativeToolTip": "MyWeb\\MyWeb.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-16T14:19:36.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SqlStoredContext.cs",
+              "DocumentMoniker": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\Models\\SqlStoredContext.cs",
+              "RelativeDocumentMoniker": "MyWeb\\Models\\SqlStoredContext.cs",
+              "ToolTip": "D:\\Machine Test\\WEbAPiStotedPart2\\MyWeb\\MyWeb\\Models\\SqlStoredContext.cs",
+              "RelativeToolTip": "MyWeb\\Models\\SqlStoredContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:18:39.872Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 912,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
